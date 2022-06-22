@@ -18,7 +18,7 @@ public class TestController : MonoBehaviour
 
     public Slider layerTransSlider;
 
-    const string ActorModleName = "TanZhiLang_001_L_";
+    const string ActorModleName = "Yuka@";
 
     public List<AnimationClip> animationClips;
 
